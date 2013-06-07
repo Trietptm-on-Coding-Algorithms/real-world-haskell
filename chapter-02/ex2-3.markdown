@@ -1,0 +1,1 @@
+It throws an error, as expected.
